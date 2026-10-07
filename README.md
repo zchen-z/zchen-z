@@ -1,11 +1,7 @@
-# Hola, soy zchen 👋
-
 Estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en Alcalá de Henares (Madrid).
 Busco mi primera oportunidad en el mundo laboral: **prácticas (FCT) o un puesto junior** como desarrollador/a.
 
-- 💻 Programo sobre todo en **Java**, **C#** y **Python**, y estoy aprendiendo **React + TypeScript**.
-- 📚 Este curso estoy trabajando en acceso a datos, programación de servicios y procesos, desarrollo móvil y ciberseguridad.
-- 🌱 Ahora mismo aprendo: persistencia con JSON (Gson / Jackson), procesos y concurrencia en Java, y criptografía en Python.
+- 💻 Programo sobre todo en **Java**, **C#** y **Python**
 - 📍 Alcalá de Henares / Madrid · disponible para trabajo presencial o híbrido.
 - 📫 Contacto: **[zchenzh@gmail.com](mailto:zchenzh@gmail.com)**
 
@@ -43,22 +39,3 @@ Busco mi primera oportunidad en el mundo laboral: **prácticas (FCT) o un puesto
 
 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** · *2025 – 2027 (en curso)*
 
-| Módulo de 2º | Lenguaje / tecnología |
-|---|---|
-| Acceso a Datos | Java · NIO · JSON (Gson, Jackson, org.json) · Maven |
-| Programación de Servicios y Procesos | Java · procesos · `ProcessBuilder` |
-| Programación Multimedia y Dispositivos Móviles | C# · .NET |
-| Ciberseguridad | Python · cifrado simétrico/asimétrico · hashes · firma digital |
-
----
-
-## 🚀 Proyectos
-
-> Estoy organizando mis proyectos. Echa un vistazo a los repositorios fijados más abajo 👇
-
----
-
-## 📊 Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=zchen-z&show_icons=true&hide_border=true&locale=es)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=zchen-z&layout=compact&hide_border=true&locale=es)
